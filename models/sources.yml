@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+- name: rawecom
+  database: ecomdb
+  schema: ecomschema
+  tables:
+   - name: orders
